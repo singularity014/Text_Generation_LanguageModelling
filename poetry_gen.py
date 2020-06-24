@@ -2,18 +2,20 @@
 @author:
 Prafull SHARMA
 '''
-
+# ---------------------------------------
 from __future__ import print_function, division
 from builtins import range, input
 # Note: you may need to update your version of future
 # sudo pip install -U future
 #----------------------------------------
+
 import os
 import sys
 import string
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+
 # -----------------------------------------
 from keras.models import Model
 from keras.layers import Dense, Embedding, Input, LSTM
