@@ -1,4 +1,4 @@
-# some configurations
+# some configurations..
 
 ##########################
 MAX_SEQUENCE_LENGTH = 100
