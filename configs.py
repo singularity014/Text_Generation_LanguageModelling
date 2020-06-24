@@ -1,4 +1,5 @@
-# some configuration
+# some configurations
+
 ##########################
 MAX_SEQUENCE_LENGTH = 100
 MAX_VOCAB_SIZE = 3000
